@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação na UFRJ, com interesse em Ciência de Dados e Inteligência Artificial. Tenho experiência com Python, SQL e redes neurais Buscando primeira experiência profissional <br><br>https://www.linkedin.com/in/renanmguedes/</p>
+<p align="left">Estudante de Ciência da Computação na UFRJ, com interesse em Ciência de Dados e Inteligência Artificial. Tenho experiência com Python, SQL e redes neurais. Buscando primeira experiência profissional <br><br>https://www.linkedin.com/in/renanmguedes/</p>
 
 ###
 
@@ -10,7 +10,26 @@
 
 ###
 
-<p align="left">Idiomas:<br>Inglês (Intermediário a Avançado)<br><br>Conceitos: <br>		- Programação Orientada a Objetos<br>		- Lógica de Programação<br>		- Estrutura de Dados<br>		- Banco de Dados (MySQL)<br>- Gestão de Projetos<br>		- Organização de Dados<br>- Redes Neurais<br>- Programação Web com Python e Django Framework</p>
+<p align="left">Linguagens:<br>
+- Python (intermediário)<br>
+- C (intermediário)<br>
+- Java (intermediário)<br>
+- SQL (intermediário)</p>
+
+###
+
+<p align="left">Idiomas:<br>
+Inglês (Intermediário a Avançado)<br><br>
+
+Conceitos: <br>
+- Programação Orientada a Objetos<br>
+- Lógica de Programação<br>
+- Estrutura de Dados<br>
+- Banco de Dados (MySQL)<br>
+- Gestão de Projetos<br>
+- Organização de Dados<br>
+- Redes Neurais<br>
+- Programação Web com Python e Django Framework</p>
 
 ###
 
